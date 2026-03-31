@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Web Application with Clerk, Prisma, PostgreSQL, Supabase, and Next.js
+# 🚀 FinSight – Financial Analytics Dashboard with Clerk, Prisma, PostgreSQL, Supabase, and Next.js
 
 This repository hosts a modern, production-ready full-stack application built using:
 
